@@ -82,6 +82,7 @@
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-singleton-hook": "^3.1.1",
+    "react-syntax-highlighter": "^15.6.1",
     "react-virtualized-auto-sizer": "^1.0.20",
     "react-window": "^1.8.9",
     "react-window-infinite-loader": "^1.0.5",
